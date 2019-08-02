@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:craft_enchanted_golden_apple"
+    ]
+  },
+  "criteria": {
+    "has_8_gold_blocks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:gold_block",
+            "count": {
+              "min": 8
+            }
+          }
+        ]
+      }
+    },
+	"has_apple": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:apple"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:craft_enchanted_golden_apple"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_8_gold_blocks",
+	  "has_apple",
+      "has_the_recipe"
+    ]
+  ]
+}
