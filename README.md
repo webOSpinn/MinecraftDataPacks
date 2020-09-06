@@ -22,6 +22,12 @@ This website is useful when creating custom recipes: https://crafting.thedestruc
 * [Wool to String](./docs/wool_to_string.md)
 
 ### Changelog
+* 2020-09-06:
+
+  * Updated to work with 1.14
+    * Changed Dyes names
+    * Updated screenshots with new textures
+
 * 2020-09-05:
 
   * Added the following recipes:
