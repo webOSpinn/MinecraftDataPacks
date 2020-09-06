@@ -5,7 +5,7 @@ Allows dyeing regular Sand to Red Sand.
 
 ## Ingredients
 * 8 [Sand](https://minecraft.gamepedia.com/Sand)
-* 1 [Rose Red](https://minecraft.gamepedia.com/Rose_Red) **or** 1 [Orange Dye](https://minecraft.gamepedia.com/Orange_Dye)
+* 1 [Red Dye](https://minecraft.gamepedia.com/Red_Dye) **or** 1 [Orange Dye](https://minecraft.gamepedia.com/Orange_Dye)
 
 ## Result
 * 8 [Red_Sand](https://minecraft.gamepedia.com/Red_Sand)

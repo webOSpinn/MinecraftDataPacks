@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "minecraft:bone_meal",
-    "minecraft:dandelion_yellow"
+    "minecraft:white_dye",
+    "minecraft:yellow_dye"
   ]
 }

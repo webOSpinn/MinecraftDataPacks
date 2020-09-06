@@ -5,7 +5,7 @@ Allows dyeing Red Sand to regular Sand.
 
 ## Ingredients
 * 8 [Red Sand](https://minecraft.gamepedia.com/Red_Sand)
-* 1 [Bone Meal](https://minecraft.gamepedia.com/Bone_Meal) **or** 1 [Dandelion Yellow](https://minecraft.gamepedia.com/Dandelion_yellow)
+* 1 [White Dye](https://minecraft.gamepedia.com/White_Dye) **or** 1 [Yellow Dye](https://minecraft.gamepedia.com/Yellow_Dye)
 
 ## Result
 * 8 [Sand](https://minecraft.gamepedia.com/Sand)
