@@ -23,7 +23,9 @@ This website is useful when creating custom recipes: https://crafting.thedestruc
 
 ### Changelog
 * 2020-09-06:
-
+  * Updated to work with 1.15
+    * Updated pack format to 5
+    * Updated screenshots with new textures
   * Updated to work with 1.14
     * Changed Dyes names
     * Updated screenshots with new textures
