@@ -23,6 +23,7 @@ This website is useful when creating custom recipes: https://crafting.thedestruc
 
 ### Changelog
 * 2020-09-06:
+  * Updated screenshot with new Magma Block texture in 1.16
   * Updated to work with 1.15
     * Updated pack format to 5
     * Updated screenshots with new textures
