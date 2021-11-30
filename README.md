@@ -22,6 +22,9 @@ This website is useful when creating custom recipes: https://crafting.thedestruc
 * [Wool to String](./docs/wool_to_string.md)
 
 ### Changelog
+* 2021-11-30:
+  * Updated to work with 1.16
+    * Updated pack format to 6
 * 2020-09-06:
   * Updated screenshot with new Magma Block texture in 1.16
   * Updated to work with 1.15
