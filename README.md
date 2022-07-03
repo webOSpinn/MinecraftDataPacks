@@ -22,6 +22,9 @@ This website is useful when creating custom recipes: https://crafting.thedestruc
 * [Wool to String](./docs/wool_to_string.md)
 
 ### Changelog
+* 2022-07-03:
+  * Updated to work with 1.18.2
+    * Updated pack format to 9
 * 2021-11-30:
   * Updated to work with 1.18
     * Updated pack format to 8
