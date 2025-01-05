@@ -4,7 +4,9 @@ My Minecraft data packs.
 ## my-recipes
 Convenient recipes left out of vanilla Minecraft. These recipes will be automatically added to the recipe book when relevant items are in your inventory. I use this data pack in conjunction with the [Improved Dyeing](https://imgur.com/a/vg2MPqZ), [Logical Uncrafting](https://imgur.com/a/LBEtPPE), Proper Stair Math, and [Shortcut Recipes](https://imgur.com/a/05ZY08g) data packs found here: https://ligandsnz.blogspot.com/p/minecraft-data-packs.html
 
-This website is useful when creating custom recipes: https://crafting.thedestruc7i0n.ca/
+These websites are useful when creating custom recipes:
+* https://crafting.thedestruc7i0n.ca/
+* https://misode.github.io/
 
 ### Recipes
 
