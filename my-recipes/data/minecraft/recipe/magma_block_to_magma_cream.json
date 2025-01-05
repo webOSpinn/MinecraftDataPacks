@@ -1,12 +1,12 @@
 {
-    "type": "crafting_shapeless",
+    "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
             "item": "minecraft:magma_block"
         }
     ],
     "result": {
-        "item": "minecraft:magma_cream",
+        "id": "minecraft:magma_cream",
         "count": 4
     }
 }

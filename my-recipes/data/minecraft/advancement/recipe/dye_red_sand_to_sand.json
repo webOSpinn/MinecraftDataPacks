@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:recipe/root",
+  "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
       "minecraft:dye_red_sand_to_sand"

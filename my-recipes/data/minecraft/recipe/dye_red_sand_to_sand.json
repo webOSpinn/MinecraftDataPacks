@@ -1,5 +1,5 @@
 ﻿{
-    "type": "crafting_shapeless",
+    "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
             "item": "minecraft:red_sand"
@@ -30,7 +30,7 @@
         }
     ],
     "result": {
-        "item": "minecraft:sand",
+        "id": "minecraft:sand",
         "count": 8
     }
 }
