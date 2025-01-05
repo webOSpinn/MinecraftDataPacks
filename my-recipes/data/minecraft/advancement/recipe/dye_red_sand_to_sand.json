@@ -1,17 +1,17 @@
 {
-  "parent": "minecraft:recipes/root",
+  "parent": "minecraft:recipe/root",
   "rewards": {
     "recipes": [
-      "minecraft:wool_to_string"
+      "minecraft:dye_red_sand_to_sand"
     ]
   },
   "criteria": {
-    "has_item": {
+	"has_red_sand": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:wool"
+            "item": "minecraft:red_sand"
           }
         ]
       }
@@ -19,13 +19,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:wool_to_string"
+        "recipe": "minecraft:dye_red_sand_to_sand"
       }
     }
   },
   "requirements": [
     [
-      "has_item",
+      "has_red_sand",
       "has_the_recipe"
     ]
   ]

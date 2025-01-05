@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:recipes/root",
+  "parent": "minecraft:recipe/root",
   "rewards": {
     "recipes": [
       "minecraft:craft_enchanted_golden_apple"
