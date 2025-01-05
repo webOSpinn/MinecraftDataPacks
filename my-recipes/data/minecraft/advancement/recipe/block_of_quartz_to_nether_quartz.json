@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:recipe/root",
+  "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
       "minecraft:block_of_quartz_to_nether_quartz"
