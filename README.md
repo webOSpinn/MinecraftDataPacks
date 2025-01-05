@@ -23,6 +23,8 @@ This website is useful when creating custom recipes: https://crafting.thedestruc
 
 ### Changelog
 * 2025-01-05:
+  * Updated to work with 1.21.4
+    * Updated pack format to 61
   * Updated to work with 1.21.2
     * Updated pack format to 57
   * Updated to work with 1.21
