@@ -1,17 +1,17 @@
 {
-  "parent": "minecraft:recipes/root",
+  "parent": "minecraft:recipe/root",
   "rewards": {
     "recipes": [
-      "minecraft:nether_wart_block_to_nether_wart"
+      "minecraft:dye_sand_to_red_sand"
     ]
   },
   "criteria": {
-    "has_item": {
+    "has_sand": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:nether_wart_block"
+            "item": "minecraft:sand"
           }
         ]
       }
@@ -19,13 +19,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:nether_wart_block_to_nether_wart"
+        "recipe": "minecraft:dye_sand_to_red_sand"
       }
     }
   },
   "requirements": [
     [
-      "has_item",
+      "has_sand",
       "has_the_recipe"
     ]
   ]

@@ -1,8 +1,8 @@
 {
-  "parent": "minecraft:recipes/root",
+  "parent": "minecraft:recipe/root",
   "rewards": {
     "recipes": [
-      "minecraft:smelt_rotten_flesh_to_leather"
+      "minecraft:block_of_quartz_to_nether_quartz"
     ]
   },
   "criteria": {
@@ -11,7 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:rotten_flesh"
+            "item": "minecraft:quartz_block"
           }
         ]
       }
@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:smelt_rotten_flesh_to_leather"
+        "recipe": "minecraft:block_of_quartz_to_nether_quartz"
       }
     }
   },

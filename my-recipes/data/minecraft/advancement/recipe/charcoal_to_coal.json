@@ -1,8 +1,8 @@
 {
-  "parent": "minecraft:recipes/root",
+  "parent": "minecraft:recipe/root",
   "rewards": {
     "recipes": [
-      "minecraft:magma_block_to_magma_cream"
+      "minecraft:charcoal_to_coal"
     ]
   },
   "criteria": {
@@ -11,7 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:magma_block"
+            "item": "minecraft:charcoal"
           }
         ]
       }
@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:magma_block_to_magma_cream"
+        "recipe": "minecraft:charcoal_to_coal"
       }
     }
   },
