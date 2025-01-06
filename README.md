@@ -29,11 +29,13 @@ These websites are useful when creating custom recipes:
     * Updated pack format to 61
   * Updated to work with 1.21.2
     * Updated pack format to 57
+    * Fixed recipe ingredients
   * Updated to work with 1.21
     * Updated pack format to 48
     * Renamed directories
   * Updated to work with 1.20.5
     * Updated pack format to 41
+    * Fixed recipe result
   * Updated to work with 1.20.3
     * Updated pack format to 26
   * Updated to work with 1.20.2
