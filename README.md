@@ -27,6 +27,7 @@ These websites are useful when creating custom recipes:
 * 2025-01-05:
   * Updated to work with 1.21.2
     * Updated pack format to 57
+    * Fixed recipe ingredients
   * Updated to work with 1.21
     * Updated pack format to 48
     * Renamed directories
