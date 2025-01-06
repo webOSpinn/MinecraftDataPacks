@@ -19,7 +19,7 @@
         ]
       }
     },
-	"has_apple": {
+	  "has_apple": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -39,7 +39,7 @@
   "requirements": [
     [
       "has_8_gold_blocks",
-	  "has_apple",
+	    "has_apple",
       "has_the_recipe"
     ]
   ]
