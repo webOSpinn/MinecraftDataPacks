@@ -32,6 +32,7 @@ These websites are useful when creating custom recipes:
     * Renamed directories
   * Updated to work with 1.20.5
     * Updated pack format to 41
+    * Fixed recipe result
   * Updated to work with 1.20.3
     * Updated pack format to 26
   * Updated to work with 1.20.2
