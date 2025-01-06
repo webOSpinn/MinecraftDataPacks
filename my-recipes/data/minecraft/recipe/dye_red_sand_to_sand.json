@@ -1,33 +1,15 @@
 ﻿{
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:red_sand"
-        },
-        {
-            "item": "minecraft:red_sand"
-        },
-        {
-            "item": "minecraft:red_sand"
-        },
-        {
-            "item": "minecraft:red_sand"
-        },
-        {
-            "tag": "spinn:sand_dye"
-        },
-        {
-            "item": "minecraft:red_sand"
-        },
-        {
-            "item": "minecraft:red_sand"
-        },
-        {
-            "item": "minecraft:red_sand"
-        },
-        {
-            "item": "minecraft:red_sand"
-        }
+        "minecraft:red_sand",
+        "minecraft:red_sand",
+        "minecraft:red_sand",
+        "minecraft:red_sand",
+        "#spinn:sand_dye",
+        "minecraft:red_sand",
+        "minecraft:red_sand",
+        "minecraft:red_sand",
+        "minecraft:red_sand"
     ],
     "result": {
         "id": "minecraft:sand",
