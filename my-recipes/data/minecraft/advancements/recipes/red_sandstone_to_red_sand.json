@@ -1,17 +1,14 @@
 {
   "parent": "minecraft:recipes/root",
-  "rewards": {
-    "recipes": [
-      "minecraft:red_sandstone_to_red_sand"
-    ]
-  },
   "criteria": {
     "has_item": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:red_sandstone"
+            "items": [
+              "minecraft:red_sandstone"
+            ]
           }
         ]
       }
@@ -28,5 +25,10 @@
       "has_item",
       "has_the_recipe"
     ]
-  ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:red_sandstone_to_red_sand"
+    ]
+  }
 }

@@ -1,17 +1,14 @@
 {
   "parent": "minecraft:recipes/root",
-  "rewards": {
-    "recipes": [
-      "minecraft:block_of_quartz_to_nether_quartz"
-    ]
-  },
   "criteria": {
     "has_item": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:quartz_block"
+            "items": [
+              "minecraft:quartz_block"
+            ]
           }
         ]
       }
@@ -28,5 +25,10 @@
       "has_item",
       "has_the_recipe"
     ]
-  ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:block_of_quartz_to_nether_quartz"
+    ]
+  }
 }

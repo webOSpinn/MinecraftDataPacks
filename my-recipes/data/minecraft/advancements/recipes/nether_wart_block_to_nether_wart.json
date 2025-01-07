@@ -1,17 +1,14 @@
 {
   "parent": "minecraft:recipes/root",
-  "rewards": {
-    "recipes": [
-      "minecraft:nether_wart_block_to_nether_wart"
-    ]
-  },
   "criteria": {
     "has_item": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:nether_wart_block"
+            "items": [
+              "minecraft:nether_wart_block"
+            ]
           }
         ]
       }
@@ -28,5 +25,10 @@
       "has_item",
       "has_the_recipe"
     ]
-  ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:nether_wart_block_to_nether_wart"
+    ]
+  }
 }
