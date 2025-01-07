@@ -24,6 +24,7 @@ This website is useful when creating custom recipes: https://crafting.thedestruc
 ### Changelog
 * 2025-01-07:
   * Fixing advancements broken in 1.17
+  * Bringing in Improved Dyeing, Logical Uncrafting, Proper Stair Math, and Shortcut Recipes data packs since they are no longer maintained
 
 * 2021-11-30:
   * Updated to work with 1.17

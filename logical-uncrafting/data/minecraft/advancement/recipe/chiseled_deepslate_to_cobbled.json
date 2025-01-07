@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:chiseled_deepslate_to_cobbled"
+    ]
+  },
+  "criteria": {
+    "has_cobbled": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cobbled_deepslate"
+          }
+        ]
+      }
+    },
+	"has_chiseled": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:chiseled_deepslate"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:chiseled_deepslate_to_cobbled"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_cobbled",
+      "has_chiseled",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:uncraft_acacia_stairs",
+      "minecraft:uncraft_birch_stairs",
+      "minecraft:uncraft_brick_stairs",
+      "minecraft:uncraft_cobblestone_stairs",
+      "minecraft:uncraft_dark_oak_stairs",
+      "minecraft:uncraft_dark_prismarine_stairs",
+      "minecraft:uncraft_jungle_stairs",
+      "minecraft:uncraft_nether_brick_stairs",
+      "minecraft:uncraft_oak_stairs",
+      "minecraft:uncraft_prismarine_brick_stairs",
+      "minecraft:uncraft_prismarine_stairs",
+      "minecraft:uncraft_purpur_stairs",
+      "minecraft:uncraft_quartz_stairs",
+      "minecraft:uncraft_red_sandstone_stairs",
+      "minecraft:uncraft_sandstone_stairs",
+      "minecraft:uncraft_spruce_stairs",
+      "minecraft:uncraft_stone_brick_stairs",
+      "minecraft:uncraft_stone_stairs",
+      "minecraft:uncraft_andesite_stairs",
+      "minecraft:uncraft_polished_andesite_stairs",
+      "minecraft:uncraft_diorite_stairs",
+      "minecraft:uncraft_polished_diorite_stairs",
+      "minecraft:uncraft_granite_stairs",
+      "minecraft:uncraft_polished_granite_stairs",
+      "minecraft:uncraft_mossy_stone_brick_stairs",
+      "minecraft:uncraft_mossy_cobblestone_stairs",
+      "minecraft:uncraft_smooth_sandstone_stairs",
+      "minecraft:uncraft_smooth_red_sandstone_stairs",
+      "minecraft:uncraft_smooth_quartz_stairs",
+      "minecraft:uncraft_red_nether_brick_stairs",
+      "minecraft:uncraft_end_stone_brick_stairs",
+      "minecraft:uncraft_crimson_stairs",
+      "minecraft:uncraft_warped_stairs",
+      "minecraft:uncraft_blackstone_stairs",
+      "minecraft:uncraft_polished_blackstone_stairs",
+      "minecraft:uncraft_polished_blackstone_brick_stairs",
+      "minecraft:uncraft_cobbled_deepslate_stairs",
+      "minecraft:uncraft_polished_deepslate_stairs",
+      "minecraft:uncraft_deepslate_brick_stairs",
+      "minecraft:uncraft_deepslate_tile_stairs",
+      "minecraft:uncraft_cut_copper_stairs",
+      "minecraft:uncraft_exposed_cut_copper_stairs",
+      "minecraft:uncraft_weathered_cut_copper_stairs",
+      "minecraft:uncraft_oxidized_cut_copper_stairs",
+      "minecraft:uncraft_waxed_cut_copper_stairs",
+      "minecraft:uncraft_waxed_exposed_cut_copper_stairs",
+      "minecraft:uncraft_waxed_weathered_cut_copper_stairs",
+      "minecraft:uncraft_waxed_oxidized_cut_copper_stairs"
+    ]
+  },
+  "criteria": {
+    "has_acacia_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:acacia_stairs"
+          }
+        ]
+      }
+    },
+    "has_acacia_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_acacia_stairs"
+      }
+    },
+    "has_birch_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:birch_stairs"
+          }
+        ]
+      }
+    },
+    "has_birch_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_birch_stairs"
+      }
+    },
+    "has_brick_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:brick_stairs"
+          }
+        ]
+      }
+    },
+    "has_brick_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_brick_stairs"
+      }
+    },
+    "has_cobblestone_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cobblestone_stairs"
+          }
+        ]
+      }
+    },
+    "has_cobblestone_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_cobblestone_stairs"
+      }
+    },
+    "has_dark_oak_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dark_oak_stairs"
+          }
+        ]
+      }
+    },
+    "has_dark_oak_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_dark_oak_stairs"
+      }
+    },
+    "has_dark_prismarine_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dark_prismarine_stairs"
+          }
+        ]
+      }
+    },
+    "has_dark_prismarine_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_dark_prismarine_stairs"
+      }
+    },
+    "has_jungle_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:jungle_stairs"
+          }
+        ]
+      }
+    },
+    "has_jungle_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_jungle_stairs"
+      }
+    },
+    "has_nether_brick_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:nether_brick_stairs"
+          }
+        ]
+      }
+    },
+    "has_nether_brick_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_nether_brick_stairs"
+      }
+    },
+    "has_oak_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:oak_stairs"
+          }
+        ]
+      }
+    },
+    "has_oak_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_oak_stairs"
+      }
+    },
+    "has_prismarine_brick_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:prismarine_brick_stairs"
+          }
+        ]
+      }
+    },
+    "has_prismarine_brick_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_prismarine_brick_stairs"
+      }
+    },
+    "has_prismarine_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:prismarine_stairs"
+          }
+        ]
+      }
+    },
+    "has_prismarine_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_prismarine_stairs"
+      }
+    },
+    "has_purpur_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:purpur_stairs"
+          }
+        ]
+      }
+    },
+    "has_purpur_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_purpur_stairs"
+      }
+    },
+    "has_quartz_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:quartz_stairs"
+          }
+        ]
+      }
+    },
+    "has_quartz_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_quartz_stairs"
+      }
+    },
+    "has_red_sandstone_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:red_sandstone_stairs"
+          }
+        ]
+      }
+    },
+    "has_red_sandstone_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_red_sandstone_stairs"
+      }
+    },
+    "has_sandstone_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:sandstone_stairs"
+          }
+        ]
+      }
+    },
+    "has_sandstone_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_sandstone_stairs"
+      }
+    },
+    "has_spruce_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:spruce_stairs"
+          }
+        ]
+      }
+    },
+    "has_spruce_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_spruce_stairs"
+      }
+    },
+    "has_stone_brick_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:stone_brick_stairs"
+          }
+        ]
+      }
+    },
+    "has_stone_brick_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_stone_brick_stairs"
+      }
+    },
+    "has_stone_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:stone_stairs"
+          }
+        ]
+      }
+    },
+    "has_stone_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_stone_stairs"
+      }
+    },
+    "has_andesite_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:andesite_stairs"
+          }
+        ]
+      }
+    },
+    "has_andesite_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_andesite_stairs"
+      }
+    },
+    "has_polished_andesite_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:polished_andesite_stairs"
+          }
+        ]
+      }
+    },
+    "has_polished_andesite_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_polished_andesite_stairs"
+      }
+    },
+    "has_diorite_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diorite_stairs"
+          }
+        ]
+      }
+    },
+    "has_diorite_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_diorite_stairs"
+      }
+    },
+    "has_polished_diorite_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:polished_diorite_stairs"
+          }
+        ]
+      }
+    },
+    "has_polished_diorite_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_polished_diorite_stairs"
+      }
+    },
+    "has_granite_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:granite_stairs"
+          }
+        ]
+      }
+    },
+    "has_granite_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_granite_stairs"
+      }
+    },
+    "has_polished_granite_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:polished_granite_stairs"
+          }
+        ]
+      }
+    },
+    "has_polished_granite_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_polished_granite_stairs"
+      }
+    },
+    "has_mossy_stone_brick_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:mossy_stone_brick_stairs"
+          }
+        ]
+      }
+    },
+    "has_mossy_stone_brick_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_mossy_stone_brick_stairs"
+      }
+    },
+    "has_mossy_cobblestone_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:mossy_cobblestone_stairs"
+          }
+        ]
+      }
+    },
+    "has_mossy_cobblestone_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_mossy_cobblestone_stairs"
+      }
+    },
+    "has_smooth_sandstone_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:smooth_sandstone_stairs"
+          }
+        ]
+      }
+    },
+    "has_smooth_sandstone_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_smooth_sandstone_stairs"
+      }
+    },
+    "has_smooth_red_sandstone_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:smooth_red_sandstone_stairs"
+          }
+        ]
+      }
+    },
+    "has_smooth_red_sandstone_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_smooth_red_sandstone_stairs"
+      }
+    },
+    "has_smooth_quartz_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:smooth_quartz_stairs"
+          }
+        ]
+      }
+    },
+    "has_smooth_quartz_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_smooth_quartz_stairs"
+      }
+    },
+    "has_red_nether_brick_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:red_nether_brick_stairs"
+          }
+        ]
+      }
+    },
+    "has_red_nether_brick_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_red_nether_brick_stairs"
+      }
+    },
+    "has_end_stone_brick_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:end_stone_brick_stairs"
+          }
+        ]
+      }
+    },
+    "has_end_stone_brick_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_end_stone_brick_stairs"
+      }
+    },
+    "has_crimson_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:crimson_stairs"
+          }
+        ]
+      }
+    },
+    "has_crimson_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_crimson_stairs"
+      }
+    },
+    "has_warped_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:warped_stairs"
+          }
+        ]
+      }
+    },
+    "has_warped_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_warped_stairs"
+      }
+    },
+    "has_blackstone_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:blackstone_stairs"
+          }
+        ]
+      }
+    },
+    "has_blackstone_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_blackstone_stairs"
+      }
+    },
+    "has_polished_blackstone_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:polished_blackstone_stairs"
+          }
+        ]
+      }
+    },
+    "has_polished_blackstone_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_polished_blackstone_stairs"
+      }
+    },
+    "has_polished_blackstone_brick_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:polished_blackstone_brick_stairs"
+          }
+        ]
+      }
+    },
+    "has_polished_blackstone_brick_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_polished_blackstone_brick_stairs"
+      }
+    },
+    "has_cobbled_deepslate_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cobbled_deepslate_stairs"
+          }
+        ]
+      }
+    },
+    "has_cobbled_deepslate_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_cobbled_deepslate_stairs"
+      }
+    },
+    "has_polished_deepslate_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:polished_deepslate_stairs"
+          }
+        ]
+      }
+    },
+    "has_polished_deepslate_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_polished_deepslate_stairs"
+      }
+    },
+    "has_deepslate_brick_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:deepslate_brick_stairs"
+          }
+        ]
+      }
+    },
+    "has_deepslate_brick_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_deepslate_brick_stairs"
+      }
+    },
+    "has_deepslate_tile_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:deepslate_tile_stairs"
+          }
+        ]
+      }
+    },
+    "has_deepslate_tile_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_deepslate_tile_stairs"
+      }
+    },
+    "has_cut_copper_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cut_copper_stairs"
+          }
+        ]
+      }
+    },
+    "has_cut_copper_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_cut_copper_stairs"
+      }
+    },
+    "has_exposed_cut_copper_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:exposed_cut_copper_stairs"
+          }
+        ]
+      }
+    },
+    "has_exposed_cut_copper_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_exposed_cut_copper_stairs"
+      }
+    },
+    "has_weathered_cut_copper_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:weathered_cut_copper_stairs"
+          }
+        ]
+      }
+    },
+    "has_weathered_cut_copper_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_weathered_cut_copper_stairs"
+      }
+    },
+    "has_oxidized_cut_copper_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:oxidized_cut_copper_stairs"
+          }
+        ]
+      }
+    },
+    "has_oxidized_cut_copper_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_oxidized_cut_copper_stairs"
+      }
+    },
+    "has_waxed_cut_copper_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:waxed_cut_copper_stairs"
+          }
+        ]
+      }
+    },
+    "has_waxed_cut_copper_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_waxed_cut_copper_stairs"
+      }
+    },
+    "has_waxed_exposed_cut_copper_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:waxed_exposed_cut_copper_stairs"
+          }
+        ]
+      }
+    },
+    "has_waxed_exposed_cut_copper_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_waxed_exposed_cut_copper_stairs"
+      }
+    },
+    "has_waxed_weathered_cut_copper_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:waxed_weathered_cut_copper_stairs"
+          }
+        ]
+      }
+    },
+    "has_waxed_weathered_cut_copper_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_waxed_weathered_cut_copper_stairs"
+      }
+    },
+    "has_waxed_oxidized_cut_copper_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:waxed_oxidized_cut_copper_stairs"
+          }
+        ]
+      }
+    },
+    "has_waxed_oxidized_cut_copper_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:uncraft_waxed_oxidized_cut_copper_stairs"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_acacia_stairs",
+      "has_acacia_recipe",
+      "has_birch_stairs",
+      "has_birch_recipe",
+      "has_brick_stairs",
+      "has_brick_recipe",
+      "has_cobblestone_stairs",
+      "has_cobblestone_recipe",
+      "has_dark_oak_stairs",
+      "has_dark_oak_recipe",
+      "has_dark_prismarine_stairs",
+      "has_dark_prismarine_recipe",
+      "has_jungle_stairs",
+      "has_jungle_recipe",
+      "has_nether_brick_stairs",
+      "has_nether_brick_recipe",
+      "has_oak_stairs",
+      "has_oak_recipe",
+      "has_prismarine_brick_stairs",
+      "has_prismarine_brick_recipe",
+      "has_prismarine_stairs",
+      "has_prismarine_recipe",
+      "has_purpur_stairs",
+      "has_purpur_recipe",
+      "has_quartz_stairs",
+      "has_quartz_recipe",
+      "has_red_sandstone_stairs",
+      "has_red_sandstone_recipe",
+      "has_sandstone_stairs",
+      "has_sandstone_recipe",
+      "has_spruce_stairs",
+      "has_spruce_recipe",
+      "has_stone_brick_stairs",
+      "has_stone_brick_recipe",
+      "has_stone_stairs",
+      "has_stone_recipe",
+      "has_andesite_stairs",
+      "has_andesite_recipe",
+      "has_polished_andesite_stairs",
+      "has_polished_andesite_recipe",
+      "has_diorite_stairs",
+      "has_diorite_recipe",
+      "has_polished_diorite_stairs",
+      "has_polished_diorite_recipe",
+      "has_granite_stairs",
+      "has_granite_recipe",
+      "has_polished_granite_stairs",
+      "has_polished_granite_recipe",
+      "has_mossy_stone_brick_stairs",
+      "has_mossy_stone_brick_recipe",
+      "has_mossy_cobblestone_stairs",
+      "has_mossy_cobblestone_recipe",
+      "has_smooth_sandstone_stairs",
+      "has_smooth_sandstone_recipe",
+      "has_smooth_red_sandstone_stairs",
+      "has_smooth_red_sandstone_recipe",
+      "has_smooth_quartz_stairs",
+      "has_smooth_quartz_recipe",
+      "has_red_nether_brick_stairs",
+      "has_red_nether_brick_recipe",
+      "has_end_stone_brick_stairs",
+      "has_end_stone_brick_recipe",
+      "has_crimson_stairs",
+      "has_crimson_recipe",
+      "has_warped_stairs",
+      "has_warped_recipe",
+      "has_blackstone_stairs",
+      "has_blackstone_recipe",
+      "has_polished_blackstone_stairs",
+      "has_polished_blackstone_recipe",
+      "has_polished_blackstone_brick_stairs",
+      "has_polished_blackstone_brick_recipe",
+      "has_cobbled_deepslate_stairs",
+      "has_cobbled_deepslate_recipe",
+      "has_polished_deepslate_stairs",
+      "has_polished_deepslate_recipe",
+      "has_deepslate_brick_stairs",
+      "has_deepslate_brick_recipe",
+      "has_deepslate_tile_stairs",
+      "has_deepslate_tile_recipe",
+      "has_cut_copper_stairs",
+      "has_cut_copper_recipe",
+      "has_exposed_cut_copper_stairs",
+      "has_exposed_cut_copper_recipe",
+      "has_weathered_cut_copper_stairs",
+      "has_weathered_cut_copper_recipe",
+      "has_oxidized_cut_copper_stairs",
+      "has_oxidized_cut_copper_recipe",
+      "has_waxed_cut_copper_stairs",
+      "has_waxed_cut_copper_recipe",
+      "has_waxed_exposed_cut_copper_stairs",
+      "has_waxed_exposed_cut_copper_recipe",
+      "has_waxed_weathered_cut_copper_stairs",
+      "has_waxed_weathered_cut_copper_recipe",
+      "has_waxed_oxidized_cut_copper_stairs",
+      "has_waxed_oxidized_cut_copper_recipe"
+    ]
+  ]
+}

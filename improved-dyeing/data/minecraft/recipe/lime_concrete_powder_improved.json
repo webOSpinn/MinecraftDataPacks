@@ -1,0 +1,36 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:lime_dye"
+        },
+        {
+            "tag": "lig:any_concrete_powder"
+        },
+        {
+            "tag": "lig:any_concrete_powder"
+        },
+        {
+            "tag": "lig:any_concrete_powder"
+        },
+        {
+            "tag": "lig:any_concrete_powder"
+        },
+        {
+            "tag": "lig:any_concrete_powder"
+        },
+        {
+            "tag": "lig:any_concrete_powder"
+        },
+        {
+            "tag": "lig:any_concrete_powder"
+        },
+        {
+            "tag": "lig:any_concrete_powder"
+        }
+    ],
+    "result": {
+        "item": "minecraft:lime_concrete_powder",
+        "count": 8
+    }
+}
